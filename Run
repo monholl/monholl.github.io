@@ -1,0 +1,2 @@
+#!/bin/bash
+cat ~/.bashrc > /tmp/konsolebash; echo "bundle exec jekyll serve" >> /tmp/konsolebash;konsole -e /bin/bash --rcfile /tmp/konsolebash
