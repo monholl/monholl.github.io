@@ -1,6 +1,6 @@
 ---
 title: Kdo jsem?
-permalink: /kdo-jsem
+permalink: /kdo-jsem/
 ---
 Jsem cvičitelka jógy - jóga mne přitáhla ještě v době, kdy nebyla populární. Bylo to v období mého studia na technické vysoké škole (vystudovala jsem matematické inženýrství na FJFI ČVUT Praha) a je se mnou stále. Jóga je pro mne uceleným systémem, modelem světa i praktickou disciplínou, která propojuje vnitřní i vnější aspekty lidské existence. Je pro mne důležité si přečtené i vyslechnuté ověřit na sobě a dává mi smysl propojování východní moudrosti se západními poznatky, např. fyzioterapie a psychoterapie.
 
