@@ -9,4 +9,4 @@ Kombinuji klasický přístup hathajógy s vývojovou kineziologií vycházejíc
 
 Jemná jóga je pro mne cestou sebepoznání, vnitřní transformace, díky které přinášíme vědomí do svého života. Uvědomujeme si, kým jsme, a přijímáme svoji vnitřní podstatu. V sebepoznání se otevíráme novému pohledu na svět, otevíráme své srdce a mysl novým možnostem, učíme se nacházet vlastní zdroje, radost a lehkost.
 
-![pozice](/assets/images/monika02.jpeg){:height="553px" width="350px" .align-center}
+![pozice]({{ site.baseurl }}/assets/images/monika02.jpeg){:height="553px" width="350px" .align-center}
