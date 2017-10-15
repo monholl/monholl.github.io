@@ -5,4 +5,10 @@
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+
+@import url('https://fonts.googleapis.com/css?family=Alegreya:400,700&amp;subset=latin-ext');
+$base-font-family: 'Arvo', "Helvetica Neue", Helvetica, Arial, sans-serif;
+$serif: 'Alegreya';
+$sans-serif: 'Alegreya';
+
 @import "minimal-mistakes"; // main partials
