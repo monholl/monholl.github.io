@@ -1,28 +1,28 @@
 ---
-title: Jóga je hustá
+title: Jóga je živá cesta prošlapávaná již tisíce let
 layout: splash
-excerpt: Pomůže vám se vším.
+excerpt: Vyzkoušej, jak může pomoct tobě...
 header:
   overlay_image: /assets/images/header01.jpeg
   overlay_filter: 0.2
   overlay_color: #000
-intro: 
-  - excerpt: Nějaký úvod/citát nebo něco...
+intro:
+  - excerpt: Jóga učí, jak se zastavit v běhu dní a vnímat přítomnost. Přináší zklidnění a radost, pomáhá nám spřátelit se s tím, kým jsme.
 feature_row:
   - image_path: assets/images/pisek-mandala.jpeg
     alt: Skupinové lekce
     title: Skupinové lekce
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: Pravidelná cvičení ve skupinách do 10 lidí.
+    url: /skupiny/
   - image_path: /assets/images/vodopad.jpeg
     alt: Individuální lekce
     title: Individuální lekce
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - image_path: /assets/images/monika01.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: Cvičení jógy dle individuálních potřeb.
+    url: /individualni/
+  - image_path: /assets/images/cesta.jpeg
+    title: "Semináře"
+    excerpt: "Kratší i delší mimořádné semináře."
+    url: /seminare/
 ---
 
 {% include feature_row id="intro" type="center" %}

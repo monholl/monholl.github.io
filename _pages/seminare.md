@@ -1,0 +1,4 @@
+---
+title: Semináře
+permalink: /seminare/
+---
