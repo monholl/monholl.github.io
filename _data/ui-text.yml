@@ -883,6 +883,45 @@ da: &DEFAULT_DA
 da-DK:
   <<: *DEFAULT_DA
 
-# Another locale
-# --------------
-#
+# Czech (default)
+# -----------------
+cs: &DEFAULT_CS
+  page                       : "Stránka"
+  pagination_previous        : "Předchozí"
+  pagination_next            : "Další"
+  breadcrumb_home_label      : "Domů"
+  breadcrumb_separator       : "/"
+  menu_label                 : "Přepnout menu"
+  toc_label                  : "Obsah stránky"
+  ext_link_label             : "Přímý odkaz"
+  less_than                  : "méně než"
+  minute_read                : "minutové čtení"
+  share_on_label             : "Sdílet na"
+  meta_label                 :
+  tags_label                 : "Tagy:"
+  categories_label           : "Kategorie:"
+  date_label                 : "Změněno:"
+  comments_label             : "Komentovat"
+  comments_title             : "Komentáře"
+  more_label                 : "Více"
+  related_label              : "Mohlo by vás zajímat"
+  follow_label               : "Sledovat:"
+  feed_label                 : "Feed"
+  powered_by                 : "Vytvořeno v"
+  website_label              : "Web"
+  email_label                : "E-mail"
+  recent_posts               : "Poslední příspěvky"
+  undefined_wpm              : "Nedefinovaný parametr words_per_minute v _config.yml"
+  comment_form_info          : "Váš e-mail nebude zveřejněn. Povinná pole jsou označena"
+  comment_form_comment_label : "Komentovat"
+  comment_form_md_info       : "Je podporován Markdown."
+  comment_form_name_label    : "Jméno"
+  comment_form_email_label   : "E-mailová adresa"
+  comment_form_website_label : "Web (nepovinné)"
+  comment_btn_submit         : "Odeslat komentář"
+  comment_btn_submitted      : "Odesláno"
+  comment_success_msg        : "Děkujeme za komentář. Objeví se na stránce hned po schválení."
+  comment_error_msg          : "Při odesílání bohužel došlo k chybě. Ověřte prosím, že jste vyplnili všechna povinná pole a zkuste to znovu."
+  loading_label              : "Načítání..."
+cs-CZ:
+  <<: *DEFAULT_CS

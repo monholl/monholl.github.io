@@ -8,7 +8,7 @@
 minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
-locale                   : "en"
+locale                   : cs
 title                    : "Jemná jóga s Monikou"
 title_separator          : "-"
 name                     : "Monika Hollmannová"
@@ -86,7 +86,7 @@ author:
   name             : "Monika Hollmannová"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : 
+  location         :
   email            :
   uri              :
   bitbucket        :
@@ -251,7 +251,7 @@ defaults:
       comments: # true
       share: true
       related: true
-      
+
 defaults:
   # _pages
   - scope:
