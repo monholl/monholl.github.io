@@ -1,10 +1,12 @@
 # main links
 main:
-  - title: "Proč jóga?"
+  - title: "Proč jóga"
     url: /proc-joga/
-  - title: "Kdo jsem?"
-    url: /kdo-jsem/
-  - title: "Jemná jóga?"
+  - title: "Jemná jóga"
     url: /jemna-joga/
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Kdo jsem"
+    url: /kdo-jsem/
+  - title: "Co mám za sebou"
+    url: /praxe/
+  - title: "Kontakt"
+    url: /kdo-jsem/

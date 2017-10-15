@@ -1,7 +1,7 @@
 ---
 title: Jóga je živá cesta prošlapávaná již tisíce let
 layout: splash
-excerpt: Vyzkoušej, jak může pomoct tobě...
+excerpt: Vyzkoušej, jak může pomoci tobě...
 header:
   overlay_image: /assets/images/header01.jpeg
   overlay_filter: 0.2

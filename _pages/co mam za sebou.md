@@ -10,3 +10,5 @@ permalink: /praxe/
 * v roce 2016 jsem začala pětiletý výcvikový program v rogersovské psychoterapii a poradenství  - v přístupu zaměřeném na člověka (PCA).
 * na své cestě jsem potkala i další učitele, kteří mne ovlivnili, především buddhistického učitele meditace Bhante Dhammadípu.
 * od roku 2010 vedu lekce jógy, spolupořádala jsem několik víkendových kurzů jógy a ájurvédy.
+
+![pozice](/assets/images/monika03.jpeg){:height="553px" width="250px" .align-center}
