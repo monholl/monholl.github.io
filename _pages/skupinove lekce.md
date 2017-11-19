@@ -2,9 +2,9 @@
 title: Skupinové lekce – jak cvičíme?
 permalink: /skupiny/
 ---
-Během skupinových lekcí začínáme dětskými vývojovými pozicemi, pokračujeme hathajógovými ásánámi, díky kterým je možné nastavit držení těla a napřímit páteř. Tato cvičení pomáhají správné koordinaci svalstva, zvýšení pohyblivosti a odstranění zlozvyků, které si přinášíme například ze „sedavých povolání“. Nejen z mé zkušenosti vím, že u těchto „jednoduchých“ cvičení měnících naše staré pohybové vzorce se můžeme i zapotit. Při cvičení propojujeme dech, tělo i mysl.
+Během skupinových lekcí začínáme dětskými vývojovými pozicemi, pokračujeme hathajógovými ásánámi, díky kterým je možné nastavit držení těla a napřímit páteř. Tato cvičení pomáhají správné koordinaci svalstva, zvýšení pohyblivosti a odstranění zlozvyků, které si přinášíme například ze „sedavých povolání“. Nejen ze své zkušenosti vím, že tato zdánlivě jednoduchá cvičení měnící naše staré pohybové vzorce mohou být i namáhavá.
 
-Díky soustředění dochází k psychickému uvolnění, uvědomování si přítomného okamžiku a ke kontaktu s místem klidu uvnitř nás.
+Při cvičení propojujeme dech, tělo i mysl, můžeme se zklidnit v běhu dní. Díky soustředění dochází k psychickému uvolnění, uvědomování si přítomného okamžiku a ke kontaktu s místem klidu uvnitř nás. Z pozice uvnitř těla můžeme totiž snadněji poodstoupit od myšlenek, můžeme je pozorovat místo toho, abychom se jimi nechali pohltit.
 
 ### Kdy a kde?
 
