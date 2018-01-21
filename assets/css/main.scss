@@ -6,9 +6,9 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 
-@import url('https://fonts.googleapis.com/css?family=David+Libre:400,700&subset=latin-ext');
-$base-font-family: 'David Libre', "Helvetica Neue", Helvetica, Arial, sans-serif;
-$serif: 'David Libre';
-$sans-serif: 'David Libre';
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin-ext');
+$base-font-family: 'Alegreya Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+$serif: 'Alegreya Sans';
+$sans-serif: 'Alegreya Sans';
 
 @import "minimal-mistakes"; // main partials
