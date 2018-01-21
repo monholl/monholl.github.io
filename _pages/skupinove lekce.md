@@ -10,8 +10,8 @@ Při cvičení propojujeme dech, tělo i mysl, můžeme se zklidnit v běhu dní
 
 |Středa                                                        | Čtvrtek                                 |
 |--------------------------------------------------------------|-----------------------------------------|
-|16:00-17.30                                                   | 16-17.30 <br/> 17.30-19:00               |
+|16:00-17:30                                                   | 16:00-17:25 <br/> 17:35-19:00               |
 |Ordinace PL Karlín, s.r.o.<br/>Šaldova 24<br/>Praha 8 - Karlín| Centrum Rybalka<br/>Rybalkova 55<br/>Praha 10 - Vršovice|
 |200 Kč/lekce (pololetní předplatné)<br/>250 Kč/lekce (jednorázová účast)|150 Kč/lekce (pololetní předplatné)<br/>200 Kč/lekce (jednorázová účast)|
 |======|======|
-|[Přihláška](http://ow.ly/fN7V30fSWIN)                         | [Přihláška](http://www.rybalka.cz)|
+|[Přihláška](http://ow.ly/fN7V30fSWIN)                         | [Přihláška](https://docs.google.com/forms/d/e/1FAIpQLScX4KyS0UKryEC8-ZRAVG1NFVd_cwCj4_cIGfcSY1TmJwEC8g/viewform)|
