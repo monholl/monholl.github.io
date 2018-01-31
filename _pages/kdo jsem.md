@@ -7,3 +7,5 @@ Jsem cvičitelka jógy - jóga mne přitáhla ještě v období mého studia na 
 Po mnoha letech vlastní praxe, účasti na různých seminářích a kurzech jsem absolvovala kurz pro cvičitele jógy získala certifikát cvičitelky, abych mohla vést skupinové i individuální lekce. Dělá mi radost, když mohu pomoci ostatním cítit se lépe – fyzicky i psychicky. Zároveň i pro mne jsou lekce nesmírně obohacující zkušeností na mé vlastní cestě jemné jógy.
 
 V kolébce jógy – Indii – jsem byla zatím dvakrát a cítila jsem tam duchovnost až do morku kostí. Doufám, že se tam ještě podívám, přesto jsem šťastná tady a teď - v české kotlině.
+
+![pozice]({{ site.baseurl }}/assets/images/5F3A2544.jpg){:height="553px" width="350px" .align-center}

@@ -3,19 +3,19 @@ title: Jóga je živá cesta prošlapávaná již tisíce let
 layout: splash
 excerpt: Vyzkoušej, jak může pomoci tobě...
 header:
-  overlay_image: /assets/images/header01.jpeg
+  overlay_image: /assets/images/DSCF5705.JPG
   overlay_filter: 0.2
   overlay_color: #000
 intro:
   - excerpt: Jóga učí, jak se zastavit v běhu dní a vnímat přítomnost. Přináší zklidnění a radost, pomáhá nám spřátelit se s tím, kým jsme.
 feature_row:
-  - image_path: /assets/images/pisek-mandala.jpeg
+  - image_path: /assets/images/rybalka3.jpeg
     alt: Skupinové lekce
     title: Skupinové lekce
     excerpt: Pravidelná cvičení ve skupinách do 10 lidí.
     url: /skupiny/
     btn_class: "btn--primary"
-  - image_path: /assets/images/vodopad.jpeg
+  - image_path: /assets/images/5F3A2481.jpg
     alt: Individuální lekce
     title: Individuální lekce
     excerpt: Cvičení jógy dle individuálních potřeb.
