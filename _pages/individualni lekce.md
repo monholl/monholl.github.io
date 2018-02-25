@@ -17,4 +17,4 @@ Cena
 1 individuální lekce jógy (80 min) - pro 1 - 2 osoby - jednorázová konzultace 800,- Kč
 
 
-[Přihláška](https://goo.gl/forms/0YlML20bjq5iUS5u1)|
+[Přihláška](https://goo.gl/forms/0YlML20bjq5iUS5u1)
