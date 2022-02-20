@@ -11,6 +11,6 @@ Při cvičení propojujeme dech, tělo i mysl, můžeme se zklidnit v běhu dní
 | Středa <br> 16:00-17:25                                                     | Středa <br> 17:35-19:00                                                |
 |-----------------------------------------------------------------------------|------------------------------------------------------------------------|
 | Centrum Rybalka<br/>Rybalkova 55<br/>Praha 10 - Vršovice                    | Centrum Rybalka<br/>Rybalkova 55<br/>Praha 10 - Vršovice               |
-|170 Kč/lekce (pololetní předplatné)<br/>210 Kč/lekce (jednorázová účast)     |170 Kč/lekce (pololetní předplatné)<br/>210 Kč/lekce (jednorázová účast)|
+|200 Kč/lekce (pololetní předplatné)<br/>250 Kč/lekce (jednorázová účast)     | 200 Kč/lekce (pololetní předplatné)<br/>250 Kč/lekce (jednorázová účast)|
 
 | [Přihláška](https://goo.gl/forms/tjNq4USOVAQxTP5k2)|
