@@ -1,5 +1,6 @@
 ---
-title: Semináře
+title: Víkendové semináře
 permalink: /seminare/
 ---
-Příležitostné sobotní semináře nebo víkendové pobyty jsou věnovány jak cvičení jógy, tak i troše teorie. Hlavně poskytují příležitost prohloubit vlastní praxi, zvnitřnit se a sdílet své zkušenosti v přátelském prostředí.
+Víkend v přírodě daleko od běžného pracovního i rodinného shonu nám poskytne možnost prohloubit a
+upevnit svoji jógovou praxi, zklidnit mysl a popovídat si o všem pro naši duši i ducha důležitém.
