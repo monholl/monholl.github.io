@@ -11,4 +11,10 @@ $base-font-family: 'Alegreya Sans', "Helvetica Neue", Helvetica, Arial, sans-ser
 $serif: 'Alegreya Sans';
 $sans-serif: 'Alegreya Sans';
 
+.archive__item-body {
+    margin: auto !important;
+    display: inline-block;
+    width: 70% !important;
+}
+
 @import "minimal-mistakes"; // main partials

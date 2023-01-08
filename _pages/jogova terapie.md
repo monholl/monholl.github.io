@@ -1,7 +1,16 @@
 ---
-title: Jemná jóga
-permalink: /jemna-joga/
+title: Jóga je živá cesta prošlapávaná již tisíce let
+permalink: /proc-joga/
 ---
+
+Jóga je cestou, do života dokáže přinášet radost a zklidnění. Dodává a obnovuje energii ke každodenním
+úkonům a pomáhá objevovat zcela nové duševní i fyzické síly, které mi usnadňují smysluplně se
+pohybovat v dnešní „zrychlené“ době. Jóga ale pouze nepomáhá, díky ní lze poznávat fyzický i
+jemnohmotný vnitřní svět v jejich součinnosti.
+
+S jógou souvisí i zdravý životní styl, uvědomění si vlivu potravy fyzické i duševní na pocit pohody a
+fungování ve světě. K tomu všemu je možné se inspirovat ájurvédou, „vědou o životě“.
+
 V lekcích Jemné jógy se snažím napomáhat a inspirovat účastníky při cestě do jejich nitra prohloubením
 vnímání jejich těla i duše a uvědomění, jak jsou tělo, emoce i duše propojené.
 

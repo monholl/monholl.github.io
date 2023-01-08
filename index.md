@@ -1,5 +1,5 @@
 ---
-title: Jóga je živá cesta prošlapávaná již tisíce let
+title: Terapie zaměřená na člověka
 layout: splash
 excerpt: Vyzkoušej, jak může pomoci tobě...
 header:
@@ -7,24 +7,24 @@ header:
   overlay_filter: 0.2
   overlay_color: #000
 intro:
-  - excerpt: Jóga učí, jak se zastavit v běhu dní a vnímat přítomnost. Přináší zklidnění a radost, pomáhá nám spřátelit se s tím, kým jsme.
+  - excerpt: Osobní i jógová terapie vedou k sebepoznání, využívají vnitřní tendence člověka k osobnímu rozvoji.<br>❉<br>Přináší zklidnění a radost, pomáhají nám spřátelit se s tím, kým jsme.
 feature_row:
-  - image_path: /assets/images/rybalka3.jpeg
-    alt: Skupinové lekce
-    title: Skupinové lekce
-    excerpt: Pravidelná cvičení ve skupinách do 10 lidí.
-    url: /skupiny/
+  - image_path: /assets/images/cesta.jpeg
+    alt: Individuální terapie
+    title: Osobní terapie
+    excerpt: Terapie zaměřená na člověka podle Carla Rogerse.
+    url: /osobni-terapie/
     btn_class: "btn--primary"
   - image_path: /assets/images/5F3A2481.jpg
-    alt: Individuální lekce
-    title: Individuální lekce
-    excerpt: Cvičení jógy dle individuálních potřeb.
-    url: /individualni/
-    btn_class: "btn--primary"
-  - image_path: /assets/images/cesta.jpeg
-    title: "Semináře"
-    excerpt: "Kratší i delší mimořádné semináře."
+    title: "Individuální jógová terapie"
+    excerpt: Cvičení jógy dle individualních potřeb.
     url: /seminare/
+    btn_class: "btn--primary"
+  - image_path: /assets/images/rybalka3.jpeg
+    alt: Skupinové lekce  terapeutické jógy
+    title: Skupinové lekce jógy
+    excerpt: Cvičení terapeutické jógy v malé skupině.
+    url: /skupiny/
     btn_class: "btn--primary"
 ---
 
