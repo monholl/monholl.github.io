@@ -5,6 +5,7 @@ permalink: /kdo-jsem/
 Monika Hollmannová
 
 +420 774 520 945
+
 m.hollmannova@gmail.com
 
 Zajímám se o jógu a psychologii již od studijních let, i když jsem absolvovala matematické inženýrství. Pracovala jsem mnoho let ve školství, během kterých jsem se stala cvičitelkou jógy. Vedu skupinové i individuální lekce terapeutické jógy. 
