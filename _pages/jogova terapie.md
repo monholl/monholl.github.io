@@ -2,21 +2,22 @@
 title: Jóga je živá cesta prošlapávaná již tisíce let
 permalink: /proc-joga/
 ---
+Terapeutická jóga vychází z kombinace tradiční jógy a vývojové kineziologie a vývojové kineziologie Václava Vojty. Praxe terapeutické jógy se zaměřuje na všechny vrstvy lidské bytosti, které se organicky ovlivňují a spoluvytvářejí naše celkové zdraví.
 
-Jóga je cestou, do života dokáže přinášet radost a zklidnění. Dodává a obnovuje energii ke každodenním
-úkonům a pomáhá objevovat zcela nové duševní i fyzické síly, které mi usnadňují smysluplně se
-pohybovat v dnešní „zrychlené“ době. Jóga ale pouze nepomáhá, díky ní lze poznávat fyzický i
-jemnohmotný vnitřní svět v jejich součinnosti.
+Individuální výuka jógy je přizpůsobena zcela potřebám a zájmům jednotlivce, umožňuje respektování osobního tempa a nejrychlejší posun v jógové praxi. Je vhodná pro začátečníky, ale i pokročilejší cvičence, kteří mají zájem o rychlejší postup v praxi, o očistné techniky nebo zásady životního stylu dle jógy. Umožňuje také mluvit o osobních problémech a životních situacích z pohledu jógové praxe a jógové filosofie. Individuální lekce lze domlouvat v dopoledních nebo odpoledních hodinách:
 
-S jógou souvisí i zdravý životní styl, uvědomění si vlivu potravy fyzické i duševní na pocit pohody a
-fungování ve světě. K tomu všemu je možné se inspirovat ájurvédou, „vědou o životě“.
+    Patočkova 2471/81a, Praha Břevnov
+    Libice 10, Rybníky u Dobříše
+    Křižíkova 67, Praha 8, sál Valkýra
 
-V lekcích Jemné jógy se snažím napomáhat a inspirovat účastníky při cestě do jejich nitra prohloubením
-vnímání jejich těla i duše a uvědomění, jak jsou tělo, emoce i duše propojené.
+Cena
 
-V lekcích Jemné jógy kombinuji klasický přístup hathajógy s vývojovou kineziologií vycházející z
-poznatků MUDr. Václava Vojty. Motivací této kombinace je, abychom jógové pozice (ásány) postavili na
-základech správného držení těla. Reflexní zapojení hlubokého stabilizačního systému umožňuje jak šetrné
-provádění jógových ásán, tak lepší koncentraci a vede i ke změně pohybových vzorců mimo hodiny jógy.
+    1 individuální lekce jógy (60 min) - pro 1 osobu, v rámci předplatného na 1 měsíc (1x týdně): 900,-Kč
+
+    1 individuální lekce jógy (60 min) - pro 2 osoby, v rámci předplatného na 1 měsíc (1x týdně) 900,-Kč
+
+    1 individuální lekce jógy (60 min) - pro 1 - 2 osoby - jednorázová konzultace 1000,- Kč
+
+Přihláška
 
 ![pozice]({{ site.baseurl }}/assets/images/5F3A2533.jpg){:height="553px" width="350px" .align-center}
