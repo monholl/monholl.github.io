@@ -2,6 +2,9 @@
 title: Individuální lekce
 permalink: /individualni/
 ---
+
+Terapeutická jóga vychází z kombinace tradiční jógy a vývojové kineziologie a vývojové kineziologie Václava Vojty. Praxe terapeutické jógy se zaměřuje na všechny vrstvy lidské bytosti, které se organicky ovlivňují a spoluvytvářejí naše celkové zdraví.
+
 Individuální výuka jógy je přizpůsobena zcela potřebám a zájmům jednotlivce, umožňuje
 respektování osobního tempa a nejrychlejší posun v jógové praxi. Je vhodná pro začátečníky, ale i
 pokročilejší cvičence, kteří mají zájem o rychlejší postup v praxi, o očistné techniky nebo zásady
