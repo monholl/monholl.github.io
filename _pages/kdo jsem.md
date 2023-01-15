@@ -4,7 +4,7 @@ permalink: /kdo-jsem/
 ---
 Monika Hollmannová
 
-+420 774 520 945
++420 774 520 945 (pokud nezvedám telefon, zašlete mi SMS, ozvu se co nejdříve zpět)
 
 m.hollmannova@gmail.com
 
