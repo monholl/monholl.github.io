@@ -16,13 +16,7 @@ permalink: /skupiny/
 
 ### Jak cvičíme?
 
-Během lekce vycházíme z dětských vývojových pozic a hathajógových ásán, díky kterým je možné
-nastavit držení těla, napřímit páteř a najít tak vlastní osu. Tato cvičení pomáhají správné koordinaci
-svalstva, zvýšení pohyblivosti a odstranění zlozvyků, které si přinášíme například ze „sedavých
-povolání“. Cvičení je klidné bez náročných dynamických přechodů, praktikujeme především
-„jednoduché“ cvičení měnící naše špatně naučené pohybové vzorce ve vrozené, které jsou mnohem
-efektivnější. Jde tedy o nastavení těla, které uplatníme nejen v jógových pozicích, ale i v běžném životě.
-Nedílnou součástí cvičení je rozvíjení všímavosti a zjemňování dechu.
+Během lekcí terapeutické jógy vycházíme z dětských vývojových pozic a jógových ásán, díky kterým je možné nastavit držení těla, napřímit páteř a najít tak vlastní osu. Tato cvičení pomáhají úlevě od bolesti, správné koordinaci svalstva a zvýšení pohyblivosti. Probíhá v klidném tempu, bez náročných dynamických přechodů. Praxe tohoto cvičení umožňuje odkrýt přirizené pohybové vzorce. Jde o nastavení těla, které uplatníme nejen v jógových pozicích, ale přenášíme je do běžného života. Nedílnou součástí cvičení je rozvíjení všímavosti a zjemňování dechu.
 
 Začínáme nastavením opor pro páteř a spinálními cviky, které napřimují a obnovují pružnost páteře. Dále
 pokračujeme záklonovými, předklonovými a rotačními pozicemi. Na závěr provádíme krátkou
