@@ -2,18 +2,11 @@
 title: Kdo jsem?
 permalink: /kdo-jsem/
 ---
-Jsem cvičitelka jógy - jóga mne přitáhla ještě v době, kdy nebyla populární. Bylo to v období mého studia
-na technické vysoké škole (vystudovala jsem matematické inženýrství na FJFI ČVUT Praha) a je se mnou
-stále. Jóga je pro mne uceleným systémem, modelem světa i praktickou disciplínou, která propojuje
-vnitřní i vnější aspekty lidské existence. Je pro mne důležité si přečtené i vyslechnuté ověřit na sobě a
-dává mi smysl propojování východní moudrosti se západními poznatky, např. fyzioterapie a
-psychoterapie.
+Monika Hollmannová
+tel. +420 774 520 945
+email. m.hollmannova@gmail.com
 
-S jógou pokračuji a budu nadále pokračovat mimo jiné formou skupinových i individuálních lekcí, které
-vedu. Dělá mi radost, když mohu díky svým zkušenostem pomoci ostatním cítit se lépe – fyzicky i
-psychicky. Zároveň i pro mne jsou lekce nesmírně obohacující zkušeností.
-
-V kolébce jógy – Indii – jsem byla dvakrát a cítila jsem tam duchovnost až do morku kostí. Doufám, že se
-tam ještě podívám, přesto jsem šťastná v české kotlině.
+Zajímám se o jógu a psychologii již od studijních let, i když jsem absolvovala matematické inženýrství. Pracovala jsem mnoho let ve školství, během kterých jsem se stala cvičitelkou jógy. Vedu skupinové i individuální lekce terapeutické jógy. 
+Na své cestě za sebopoznáním a sebepřijetím jsem za absolvovala dvouletý psychospirituelní kurz HNP Jitky Vodňanské a výcvik rogersovského psychoterapeutického směru – přístupu zaměřeného na člověka PCA, který vnímám jako terapeutický směr, který je v souladu s filosofií a etickými zásadami jógy. Během mnoha hodin výcviku jsem zažila, jak působí výživná atmosféra bezpodmínečného přijetí, empatického naslouchání, jak je možné se více poznat a přijmout a zahojit vnitřní bolesti. 
 
 ![pozice]({{ site.baseurl }}/assets/images/5F3A2544.jpg){:height="553px" width="350px" .align-center}
