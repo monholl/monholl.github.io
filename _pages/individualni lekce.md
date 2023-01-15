@@ -6,8 +6,11 @@ Individuální výuka jógy je přizpůsobena zcela potřebám a zájmům jednot
 respektování osobního tempa a nejrychlejší posun v jógové praxi. Je vhodná pro začátečníky, ale i
 pokročilejší cvičence, kteří mají zájem o rychlejší postup v praxi, o očistné techniky nebo zásady
 životního stylu dle jógy. Umožňuje také mluvit o osobních problémech a životních situacích
-z pohledu jógové praxe a jógové filosofie. Individuální lekce lze domlouvat v dopoledních nebo
-odpoledních hodinách.
+z pohledu jógové praxe a jógové filosofie. 
+Individuální lekce lze domlouvat v dopoledních nebo odpoledních hodinách:
+- Patočkova 2471/81a, Praha Břevnov
+- Libice 10, Rybníky u Dobříše
+- Křižíkova 67, Praha 8, sál Valkýra
 
 ### Cena
 
