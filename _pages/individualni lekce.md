@@ -1,5 +1,5 @@
 ---
-title: Individuální lekce – čím jsou odlišné?
+title: Individuální lekce
 permalink: /individualni/
 ---
 Individuální výuka jógy je přizpůsobena zcela potřebám a zájmům jednotlivce, umožňuje
