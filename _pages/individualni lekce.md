@@ -11,10 +11,10 @@ odpoledních hodinách.
 
 ### Cena
 
-* 1 individuální lekce jógy (80 min) - pro 1 osobu, v rámci předplatného na 1 měsíc (1x týdně): 900,-Kč
+* 1 individuální lekce jógy (60 min) - pro 1 osobu, v rámci předplatného na 1 měsíc (1x týdně): 900,-Kč
 
-* 1 individuální lekce jógy (80 min) - pro 2 osoby, v rámci předplatného na 1 měsíc (1x týdně) 900,-Kč
+* 1 individuální lekce jógy (60 min) - pro 2 osoby, v rámci předplatného na 1 měsíc (1x týdně) 900,-Kč
 
-* 1 individuální lekce jógy (80 min) - pro 1 - 2 osoby - jednorázová konzultace 1000,- Kč
+* 1 individuální lekce jógy (60 min) - pro 1 - 2 osoby - jednorázová konzultace 1000,- Kč
 
 [Přihláška](https://goo.gl/forms/0YlML20bjq5iUS5u1)
