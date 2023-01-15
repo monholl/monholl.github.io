@@ -10,3 +10,12 @@ Věřím, že člověk má v sobě vrozenou tendenci k neustálému růstu a roz
 V terapii neurčuji témata rozhovoru, nedávám rady nebo řešení. Pokud to je na místě a klient o to má zájem, nabízím pro inspiraci relaxační a dechová cvičení, která někdy umožňují lépe se dostat do kontaktu sám se sebou, což vede ke zbavení se vnitřních bolestí, k lepšímu porozumění sama sebe a k větší důvěře ve své tělo. Je možné i vyzkoušet meditaci na dech. Cvičení se provádí v pro vás pohodlné poloze a bezpečném prostoru formou nabídky.
 
 Pracuji pod pravidelnou odbornou supervizí, která probíhá vždy se zachováním anonymity klienta. Vše, co mi sdělíte, považuji za důvěrné.
+
+Můžeme se setkat v Praze nebo u Dobříše na adresách:
+- Patočkova 2471/81a, Praha - Břevnov
+- Libice 10, Rybníky u Dobříše
+    
+
+Cena osobní konzultace je 800 Kč (60 min)
+
+    
