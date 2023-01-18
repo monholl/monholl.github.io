@@ -10,7 +10,6 @@ jemnohmotný vnitřní svět v jejich součinnosti.
 
 Terapeutická jóga kombinuje klasický přístup jógy s vývojovou kineziologií Václava Vojty, která napřimuje páteř reflexním zapojením hlubokého stabilizačního systému. Umožňuje tak šetrné provádění jógových ásán, lepší koncentraci a vede i ke změně pohybových vzorců mimo hodiny jógy. Cvičení je klidné bez náročných dynamických přechodů, praktikujeme především spinální cviky a „jednoduché“ cvičení měnící naše staré pohybové vzorce ve vrozené, mnohem efektivnější vzorce. Nedílnou součástí cvičení je rozvíjení všímavosti a zjemňování dechu. 
 
-![pozice]({{ site.baseurl }}/assets/images/5F3A2533.jpg){:height="553px" width="350px" .align-center}
 
 Individuální lekce
 
@@ -30,8 +29,6 @@ Cena
 
 Přihláška
 
-![pozice]({{ site.baseurl }}/assets/images/5F3A2533.jpg){:height="553px" width="350px" .align-center}
-
 
 
 Skupinové lekce
@@ -47,3 +44,7 @@ Cena
     při platbě za 10 lekcí: 220 Kč/lekce
     
     jednorázová účast: 250 Kč/lekce
+    
+ Přihláška
+    
+![pozice]({{ site.baseurl }}/assets/images/5F3A2533.jpg){:height="553px" width="350px" .align-center}
