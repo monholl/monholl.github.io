@@ -12,6 +12,8 @@ Terapeutická jóga kombinuje klasický přístup jógy s vývojovou kineziologi
 
 ![pozice]({{ site.baseurl }}/assets/images/5F3A2533.jpg){:height="553px" width="350px" .align-center}
 
+Individuální lekce
+
 Terapeutická jóga vychází z kombinace tradiční jógy a vývojové kineziologie a vývojové kineziologie Václava Vojty. Praxe terapeutické jógy se zaměřuje na všechny vrstvy lidské bytosti, které se organicky ovlivňují a spoluvytvářejí naše celkové zdraví.
 
 Individuální výuka jógy je přizpůsobena zcela potřebám a zájmům jednotlivce, umožňuje respektování osobního tempa a nejrychlejší posun v jógové praxi. Je vhodná pro začátečníky, ale i pokročilejší cvičence, kteří mají zájem o rychlejší postup v praxi, o očistné techniky nebo zásady životního stylu dle jógy. Umožňuje také mluvit o osobních problémech a životních situacích z pohledu jógové praxe a jógové filosofie. Individuální lekce lze domlouvat v dopoledních nebo odpoledních hodinách:
@@ -28,9 +30,11 @@ Cena
 
 Přihláška
 
+![pozice]({{ site.baseurl }}/assets/images/5F3A2533.jpg){:height="553px" width="350px" .align-center}
 
 
-Jak cvičíme?
+
+Skupinové lekce
 
 Během lekcí terapeutické jógy vycházíme z dětských vývojových pozic a jógových ásán, díky kterým je možné nastavit držení těla, napřímit páteř a najít tak vlastní osu. Tato cvičení pomáhají úlevě od bolesti, správné koordinaci svalstva a zvýšení pohyblivosti. Probíhá v klidném tempu, bez náročných dynamických přechodů. Praxe tohoto cvičení umožňuje odkrýt přirizené pohybové vzorce. Jde o nastavení těla, které uplatníme nejen v jógových pozicích, ale přenášíme je do běžného života. Nedílnou součástí cvičení je rozvíjení všímavosti a zjemňování dechu.
 
