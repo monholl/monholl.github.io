@@ -50,6 +50,18 @@
           </a>
         </li>
       {% endif %}
+      {% if author.phone %}
+        <li itemprop="phone" itemscope itemtype="http://schema.org/Place">
+          <a href="tel:{{ author.phone }}">
+            <i class="fa fa-fw fa-phone" aria-hidden="true"></i> <span itemprop="name">{{ author.phone }}</span>
+          </a>
+        </li>
+      {% endif %}
+      {% if author.bank %}
+        <li itemprop="bank" itemscope itemtype="http://schema.org/Place">
+          <i class="fa fa-fw fa-bank" aria-hidden="true"></i> <span itemprop="name">{{ author.bank }}</span>
+        </li>
+      {% endif %}
 
       {% if author.keybase %}
         <li>

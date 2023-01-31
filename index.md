@@ -20,8 +20,8 @@ feature_row:
     excerpt: Cvičení jógy dle individualních potřeb.
     url: /individualni/
     btn_class: "btn--primary"
-  - image_path: /assets/images/rybalka3.jpeg
-    alt: Skupinové lekce  terapeutické jógy
+  - image_path: /assets/images/valkyra_orez.jpg
+    alt: Skupinové lekce terapeutické jógy
     title: Skupinové lekce jógy
     excerpt: Cvičení terapeutické jógy v malé skupině.
     url: /skupiny/
