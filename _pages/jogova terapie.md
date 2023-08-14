@@ -8,7 +8,6 @@ Individuální výuka jógy je přizpůsobena zcela potřebám a zájmům jednot
 
     Patočkova 2471/81a, Praha Břevnov
     Libice 10, Rybníky u Dobříše
-    Křižíkova 67, Praha 8, sál Valkýra
 
 Cena
 
