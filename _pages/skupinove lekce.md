@@ -11,7 +11,7 @@ permalink: /skupiny/
 
 ### Cena
 
-* při platbě předplatného za 10 lekcí: 2 200 Kč
+* při platbě předplatného za 10 lekcí: 2 000 Kč
 * jednorázová účast: 250 Kč/lekce
 
 ### Jak cvičíme?
