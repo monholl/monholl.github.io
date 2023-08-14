@@ -40,7 +40,7 @@ Lekce je dostupná pro široké spektrum cvičenců s různými fyzickými schop
 * jednorázová účast: 250 Kč/lekce
 
 **Přihláška**
-* [Vršovická sokolovna](https://docs.google.com/forms/d/e/1FAIpQLScX4KyS0UKryEC8-ZRAVG1NFVd_cwCj4_cIGfcSY1TmJwEC8g/viewform?usp=pp_url&entry.237922298=Vr%C5%A1ovice+%C3%9Ater%C3%BD+16:30+-+18:00)
-* [Sál Valkýra](https://docs.google.com/forms/d/e/1FAIpQLScX4KyS0UKryEC8-ZRAVG1NFVd_cwCj4_cIGfcSY1TmJwEC8g/viewform?usp=pp_url&entry.237922298=Karl%C3%ADn+%C4%8Ctvrtek+17:30+-+19:00)
+* [Vršovická sokolovna úterý](https://docs.google.com/forms/d/e/1FAIpQLScX4KyS0UKryEC8-ZRAVG1NFVd_cwCj4_cIGfcSY1TmJwEC8g/viewform?usp=pp_url&entry.237922298=Vr%C5%A1ovice+%C3%9Ater%C3%BD+16:30+-+18:00)
+* [Vršovická sokolovna čtvrtek](https://docs.google.com/forms/d/e/1FAIpQLScX4KyS0UKryEC8-ZRAVG1NFVd_cwCj4_cIGfcSY1TmJwEC8g/viewform?usp=pp_url&entry.237922298=Karl%C3%ADn+%C4%8Ctvrtek+17:30+-+19:00)
 
 ![pozice]({{ site.baseurl }}/assets/images/5F3A2533.jpg){:height="553px" width="350px" .align-center}
