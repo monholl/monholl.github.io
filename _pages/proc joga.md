@@ -19,7 +19,6 @@ Individuální výuka jógy je přizpůsobena zcela potřebám a zájmům jednot
 
 - Patočkova 2471/81a, Praha Břevnov
 - Libice 10, Rybníky u Dobříše
-- Křižíkova 67, Praha 8, sál Valkýra
 
 **Cena**
 * 1 individuální lekce jógy (60 min) - pro 1 - 2 osoby v rámci předplatného na 1 měsíc (1x týdně): 900,-Kč
