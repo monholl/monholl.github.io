@@ -13,7 +13,6 @@ z pohledu jógové praxe a jógové filosofie.
 Individuální lekce lze domlouvat v dopoledních nebo odpoledních hodinách:
 - Patočkova 2471/81a, Praha Břevnov
 - Libice 10, Rybníky u Dobříše
-- Křižíkova 67, Praha 8, sál Valkýra
 
 ### Cena
 
