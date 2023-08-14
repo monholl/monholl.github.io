@@ -36,7 +36,7 @@ Začínáme nastavením opor pro páteř a spinálními cviky, které napřimuj�
 Lekce je dostupná pro široké spektrum cvičenců s různými fyzickými schopnostmi, účast je možná i pro ty, kteří nemají s jógou žádnou zkušenost. Přijďte si odpočinout a udělat něco pro sebe v příjemné atmosféře malé skupiny.
 
 **Cena**
-* při platbě za 10 lekcí: 220 Kč/lekce
+* při platbě předplatného za 10 lekcí: 2 000 Kč
 * jednorázová účast: 250 Kč/lekce
 
 **Přihláška**
