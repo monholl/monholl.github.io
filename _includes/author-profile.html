@@ -62,7 +62,11 @@
           <i class="fa fa-fw fa-bank" aria-hidden="true"></i> <span itemprop="name">{{ author.bank }}</span>
         </li>
       {% endif %}
-
+      {% if author.ico %}
+        <li itemprop="ico" itemscope itemtype="http://schema.org/Place">
+	  <span itemprop="name"><b>IČO</b> {{ author.ico }}</span>
+        </li>
+      {% endif %}
       {% if author.keybase %}
         <li>
           <a href="https://keybase.io/{{ author.keybase }}" itemprop="sameAs">
