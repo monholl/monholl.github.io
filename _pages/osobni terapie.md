@@ -3,6 +3,8 @@ title: Osobní terapie
 permalink: /osobni-terapie/
 ---
 
+[Rezervujte zde](https://koalendar.com/e/osobni-terapie-pca){: .btn .btn--info}
+
 Během setkávání při osobní terapii se budeme zabývat vaším sebepoznáním a sebeuvědoměním díky rozhovoru. Budeme pracovat s myšlenkami a s nimi spojenými emocemi a tělesnými pocity, budeme zkoumat, jak se vztahujete ke světu uvnitř i vně. Terapie je Vaším prostorem a časem a je na vás, jak obojí využije, jaké téma přinesete. Je účinným prostředkem například na léčbu
  - obav a úzkostí
  - nespavosti
@@ -20,6 +22,6 @@ Můžeme se setkat v Praze nebo u Dobříše na adresách:
 - Libice 10, Rybníky u Dobříše
     
 
-Cena osobní konzultace je 800 Kč (60 min)
+Cena osobní konzultace je 800 Kč (60 min). Rezervovat termín můžete níže.
 
-    
+<iframe src="https://koalendar.com/e/osobni-terapie-pca?embed=true" width="100%" height="800px" frameborder="0"></iframe>

@@ -4,7 +4,9 @@ main:
     url: /osobni-terapie/
   - title: "Jógová terapie"
     url: /jogova-terapie/
+  - title: "Skupinové lekce"
+    url: /skupiny/
+  - title: "Proč jóga"
+    url: /proc-joga/
   - title: "Kdo jsem"
     url: /kdo-jsem/
-  - title: "Rozvrh"
-    url: /skupiny/

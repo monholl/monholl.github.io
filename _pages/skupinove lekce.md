@@ -7,7 +7,7 @@ permalink: /skupiny/
 | Úterý <br> 16:30-18:00                                                                                               | Čtvrtek <br> 17:00-18:30                                                            |
 |----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
 | **Vršovická Sokolovna, malý sál**<br/>Vršovické náměstí 111/2, 101 00 Praha 10<br/>vchod ze Sportovní ul. mezi kurty | **Vršovická Sokolovna, malý sál**<br/>Vršovické náměstí 111/2, 101 00 Praha 10<br/>vchod ze Sportovní ul. mezi kurty |
-| [Přihláška](https://docs.google.com/forms/d/e/1FAIpQLScX4KyS0UKryEC8-ZRAVG1NFVd_cwCj4_cIGfcSY1TmJwEC8g/viewform?usp=pp_url&entry.237922298=Vr%C5%A1ovice+%C3%9Ater%C3%BD+16:30+-+18:00)                                                                  | [Přihláška](https://docs.google.com/forms/d/e/1FAIpQLScX4KyS0UKryEC8-ZRAVG1NFVd_cwCj4_cIGfcSY1TmJwEC8g/viewform?usp=pp_url&entry.237922298=Vr%C5%A1ovice+%C4%8Ctvrtek+17:00+-+18:30)                         |
+| [Rezervace](https://zenamu.com/terapeuticka-joga-s-monikou){: .btn .btn--info}                                       | [Rezervace](https://zenamu.com/terapeuticka-joga-s-monikou){: .btn .btn--info}      |
 
 ### Cena
 
