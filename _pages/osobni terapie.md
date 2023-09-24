@@ -18,7 +18,7 @@ V terapii neurčuji témata rozhovoru, nedávám rady nebo řešení. Pokud to j
 Pracuji pod pravidelnou odbornou supervizí, která probíhá vždy se zachováním anonymity klienta. Vše, co mi sdělíte, považuji za důvěrné.
 
 Můžeme se setkat v Praze nebo u Dobříše na adresách:
-- Patočkova 2471/81a, Praha - Břevnov
+- Patočkova 2472/81a, Praha 6 - Břevnov
 - Libice 10, Rybníky u Dobříše
     
 
