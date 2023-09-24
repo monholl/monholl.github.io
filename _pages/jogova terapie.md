@@ -8,7 +8,7 @@ Terapeutická jóga vychází z kombinace tradiční jógy a vývojové kineziol
 
 Individuální výuka jógy je přizpůsobena zcela potřebám a zájmům jednotlivce, umožňuje respektování osobního tempa a nejrychlejší posun v jógové praxi. Je vhodná pro začátečníky, ale i pokročilejší cvičence, kteří mají zájem o rychlejší postup v praxi, o očistné techniky nebo zásady životního stylu dle jógy. Umožňuje také mluvit o osobních problémech a životních situacích z pohledu jógové praxe a jógové filosofie. Individuální lekce lze domlouvat v dopoledních nebo odpoledních hodinách:
 
-* Patočkova 2471/81a, Praha Břevnov
+* Patočkova 2471/81a, Praha 6 - Břevnov
 * Libice 10, Rybníky u Dobříše
 
 ![pozice]({{ site.baseurl }}/assets/images/5F3A2533.jpg){:height="553px" width="350px" .align-center}
