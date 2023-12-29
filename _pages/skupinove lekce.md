@@ -4,9 +4,9 @@ permalink: /skupiny/
 ---
 ### Kdy a kde?
 
-| Úterý <br> 16:30-18:00                                                                                               | Čtvrtek <br> 17:00-18:30                                                            |
+| Pondělí <br> Praha Vršovice <br> 16:30-17:55 <br> 18:05-19:30                                                                                               | Úterý <br> Dobříš <br> 17:15-18:45  |
 |----------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| **Vršovická Sokolovna, malý sál**<br/>Vršovické náměstí 111/2, 101 00 Praha 10<br/>vchod ze Sportovní ul. mezi kurty | **Vršovická Sokolovna, malý sál**<br/>Vršovické náměstí 111/2, 101 00 Praha 10<br/>vchod ze Sportovní ul. mezi kurty |
+| **Jóga a pilátes studio**<br/>Charkovská 333/5, Praha 10 <br/>(vchod z ulice Donská) | **Jóga Dobříš studio**<br/>Plk. B. Petroviče 86, Dobříš<br/> (vstup z ulice J. Wolkra) |
 | [Rezervace](https://zenamu.com/terapeuticka-joga-s-monikou){: .btn .btn--info}                                       | [Rezervace](https://zenamu.com/terapeuticka-joga-s-monikou){: .btn .btn--info}      |
 
 ### Cena
