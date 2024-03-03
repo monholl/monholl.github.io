@@ -10,18 +10,19 @@ intro:
   - excerpt: Osobní i jógová terapie vedou k sebepoznání, využívají vnitřní tendence člověka k osobnímu rozvoji.<br>❉<br>Přináší zklidnění a radost, pomáhají nám spřátelit se s tím, kým jsme.
 feature_row:
   - image_path: /assets/images/cesta.jpeg
-    alt: Individuální terapie
+    alt: Individuální terapie v Praze Břevnově a u Dobříše
     title: Osobní terapie
     excerpt: Terapie zaměřená na člověka podle Carla Rogerse.
     url: /osobni-terapie/
     btn_class: "btn--primary"
   - image_path: /assets/images/5F3A2481.jpg
+    alt: Individuální jógová terapie u Dobříše a na Břevnově v Praze
     title: "Individuální jógová terapie"
     excerpt: Cvičení jógy dle individualních potřeb.
     url: /individualni/
     btn_class: "btn--primary"
   - image_path: /assets/images/valkyra_orez.jpg
-    alt: Skupinové lekce terapeutické jógy
+    alt: Skupinové lekce terapeutické jógy na Dobříši a v Praze Vršovicích
     title: Skupinové lekce jógy
     excerpt: Cvičení terapeutické jógy v malé skupině.
     url: /skupiny/
