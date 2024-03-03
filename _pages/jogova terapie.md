@@ -1,5 +1,5 @@
 ---
-title: Individuální jógová terapie 
+title: Individuální jógová terapie
 permalink: /jogova-terapie/
 ---
 [Rezervujte zde](https://koalendar.com/e/individualni-jogova-terapie){: .btn .btn--info}
@@ -11,7 +11,7 @@ Individuální výuka jógy je přizpůsobena zcela potřebám a zájmům jednot
 * Patočkova 2472/81a, Praha 6 - Břevnov
 * Libice 10, Rybníky u Dobříše
 
-![pozice]({{ site.baseurl }}/assets/images/5F3A2533.jpg){:height="553px" width="350px" .align-center}
+![pozice]({{ site.baseurl }}/assets/images/5F3A2544.jpg){:height="600px" width="492px" .align-center}
 
 ### Cena
 
