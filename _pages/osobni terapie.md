@@ -22,6 +22,6 @@ Můžeme se setkat v Praze nebo u Dobříše na adresách:
 - Libice 10, Rybníky u Dobříše
     
 
-Cena osobní konzultace je 800 Kč (60 min). Rezervovat termín můžete níže.
+Cena osobní konzultace je 1 000 Kč (60 min). Rezervovat termín můžete níže.
 
 <iframe src="https://koalendar.com/e/osobni-terapie-pca?embed=true" width="100%" height="800px" frameborder="0"></iframe>
