@@ -22,6 +22,10 @@ Můžeme se setkat v Praze nebo u Dobříše na adresách:
 - Libice 10, Rybníky u Dobříše
     
 
-Cena osobní konzultace je 1 000 Kč (60 min). Rezervovat termín můžete níže.
+Cena osobní konzultace je 1 000 Kč (60 min).
+
+Jsem v adresáři terapeutů zařazených do preventivních programů pojišťoven, je možné tedy čerpat příspěvek od pojišťoven. Seznam terapeutů je uveden na stránkách ČAP zde: https://www.czap.cz/spoluprace-zp. Leták srhrnující Preventivní programy ZP platné pro rok 2026 jsou zde: (https://www.czap.cz/resources/Documents/kl%C3%AD%C4%8Dov%C3%A9%20dokumenty%20kodex%20a%20z%C3%A1sady/ZP%20pro%20klienty%202026.pdf){: .btn .btn--info}
+
+Rezervovat termín můžete níže.
 
 <iframe src="https://koalendar.com/e/osobni-terapie-pca?embed=true" width="100%" height="800px" frameborder="0"></iframe>
