@@ -5,6 +5,18 @@ permalink: /osobni-terapie/
 
 [Rezervujte zde](https://koalendar.com/e/osobni-terapie-pca){: .btn .btn--info}
 
+Můžeme se setkat v Praze nebo u Dobříše na adresách:
+- Patočkova 2472/81a, Praha 6 - Břevnov
+- Libice 10, Rybníky u Dobříše
+    
+Cena osobní konzultace je 1 000 Kč (60 min).
+
+Jsem v adresáři terapeutů zařazených do preventivních programů pojišťoven, je možné tedy čerpat příspěvek od pojišťoven. Seznam terapeutů je uveden na stránkách ČAP [zde](https://www.czap.cz/spoluprace-zp). 
+
+Leták srhrnující Preventivní programy ZP platné pro rok 2026 je [zde](https://www.czap.cz/resources/Documents/kl%C3%AD%C4%8Dov%C3%A9%20dokumenty%20kodex%20a%20z%C3%A1sady/ZP%20pro%20klienty%202026.pdf).
+
+## O terapii
+
 Během setkávání při osobní terapii se budeme zabývat vaším sebepoznáním a sebeuvědoměním díky rozhovoru. Budeme pracovat s myšlenkami a s nimi spojenými emocemi a tělesnými pocity, budeme zkoumat, jak se vztahujete ke světu uvnitř i vně. Terapie je Vaším prostorem a časem a je na vás, jak obojí využije, jaké téma přinesete. Je účinným prostředkem například na léčbu
  - obav a úzkostí
  - nespavosti
@@ -16,16 +28,6 @@ Věřím, že člověk má v sobě vrozenou tendenci k neustálému růstu a roz
 V terapii neurčuji témata rozhovoru, nedávám rady nebo řešení. Pokud to je na místě a klient o to má zájem, nabízím pro inspiraci relaxační a dechová cvičení, která někdy umožňují lépe se dostat do kontaktu sám se sebou, což vede ke zbavení se vnitřních bolestí, k lepšímu porozumění sama sebe a k větší důvěře ve své tělo. Je možné i vyzkoušet meditaci na dech. Cvičení se provádí v pro vás pohodlné poloze a bezpečném prostoru formou nabídky.
 
 Pracuji pod pravidelnou odbornou supervizí, která probíhá vždy se zachováním anonymity klienta. Vše, co mi sdělíte, považuji za důvěrné.
-
-Můžeme se setkat v Praze nebo u Dobříše na adresách:
-- Patočkova 2472/81a, Praha 6 - Břevnov
-- Libice 10, Rybníky u Dobříše
-    
-
-Cena osobní konzultace je 1 000 Kč (60 min).
-
-Jsem v adresáři terapeutů zařazených do preventivních programů pojišťoven, je možné tedy čerpat příspěvek od pojišťoven. Seznam terapeutů je uveden na stránkách ČAP [zde](https://www.czap.cz/spoluprace-zp). 
-Leták srhrnující Preventivní programy ZP platné pro rok 2026 jsou [zde](https://www.czap.cz/resources/Documents/kl%C3%AD%C4%8Dov%C3%A9%20dokumenty%20kodex%20a%20z%C3%A1sady/ZP%20pro%20klienty%202026.pdf).
 
 Rezervovat termín můžete níže.
 
