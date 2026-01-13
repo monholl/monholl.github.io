@@ -18,4 +18,4 @@ Na své cestě za sebopoznáním a sebepřijetím jsem za absolvovala dvouletý 
 * v roce 2025 jsem absolvovala Výcvik v relaxačních technikách - Schultzův autogenní trénink v rozsahu 40 hodin.
 * od roku 2025 jsem členem České asociace pro psychoterapii (ČAP)
 
-Jsem v adresáři terapeutů zařazených do preventivních programů pojišťoven, je možné tedy čerpat příspěvek od pojišťoven. Seznam terapeutů je uveden na stránkách ČAP zde: https://www.czap.cz/spoluprace-zp
+Jsem v adresáři terapeutů zařazených do preventivních programů pojišťoven, je možné tedy čerpat příspěvek od pojišťoven. Seznam terapeutů je uveden na stránkách ČAP zde: (https://www.czap.cz/spoluprace-zp)
